@@ -1,0 +1,91 @@
+body {
+	margin-left: 15vw;
+	margin-right: 15vw;
+	font-family: monospace;
+}
+
+h1 {
+	font-family: monospace;
+	font-weight: normal;
+}
+
+h2 {
+	margin-top: 0px;
+	font-family: monospace;
+	font-weight: normal;
+}
+
+h3 {
+	margin-top: 1.5vw;
+	margin-bottom: 1.5vw;
+}
+
+hr.double {
+	border-top: 3px double #aaaaaa;
+}
+
+.rightHeaderText {
+	float: right; 
+	margin-right: 0vw;
+	font-size: 70%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: #ffffff;
+  padding: 0px;
+}
+.left-item{
+  background-color: rgba(255, 255, 255, 0.8);
+  /*border: 1px; 
+  border-style: hidden solid hidden hidden;*/
+  padding: 1.5vw;
+  padding-left: 0px;
+  font-size: normal;
+  text-align: left;
+}
+
+.mid-item{
+  background-color: rgba(255, 255, 255, 0.8);
+  /*border: 1px; 
+  border-style: hidden solid hidden hidden;*/
+  padding: 1.5vw;
+  font-size: normal;
+  text-align: left;
+}
+
+.right-item{
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 1.5vw;
+  padding-right: 0px;
+  font-size: normal;
+  text-align: left;
+}
+
+.spanning2{
+  background-color: rgba(255, 255, 255, 0.8);
+  padding-top: 1.5vw;
+  padding-bottom: 1.5vw;
+  font-size: normal;
+  text-align: left;
+  grid-column: span 2;
+}
+
+.spanning3{
+  background-color: rgba(255, 255, 255, 0.8);
+  padding-top: 1.5vw;
+  padding-bottom: 1.5vw;
+  font-size: normal;
+  text-align: left;
+  grid-column: span 3;
+}
+
+.spanning4{
+  background-color: rgba(255, 255, 255, 0.8);
+  padding-top: 1.5vw;
+  padding-bottom: 1.5vw;
+  font-size: normal;
+  text-align: left;
+  grid-column: span 4;
+}
