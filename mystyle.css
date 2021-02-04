@@ -1,11 +1,11 @@
 body {
-	margin-left: 15vw;
-	margin-right: 15vw;
-	font-family: monospace;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	font-family: sans-serif;
 }
 
 h1 {
-	font-family: monospace;
+	font-family: sans-serif;
 	font-weight: normal;
 }
 
@@ -17,7 +17,8 @@ h2 {
 
 h3 {
 	margin-top: 1.5vw;
-	margin-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
+  font-family: monospace;
 }
 
 hr.double {
@@ -26,8 +27,9 @@ hr.double {
 
 .rightHeaderText {
 	float: right; 
-	margin-right: 0vw;
-	font-size: 70%;
+  margin-right: 0vw;
+  vertical-align: text-bottom;
+	font-size: 50%;
 }
 
 .grid-container {

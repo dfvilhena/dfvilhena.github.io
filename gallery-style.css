@@ -1,0 +1,15 @@
+.container {
+    
+	margin-right: 20vw;
+    padding:0vw;
+
+}
+
+.nopadding {
+    padding: 0.1vw !important;
+    margin: 0vw !important;
+ }
+
+.col-sm {
+    border: 0.1vw solid #F8F9FA;
+}
