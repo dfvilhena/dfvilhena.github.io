@@ -11,5 +11,14 @@
  }
 
 .col-sm {
-    border: 0.1vw solid #F8F9FA;
+    border: 0.1vw solid #F00;
+}
+
+.padding {
+    padding: 1vw !important;
+    margin: 1vw !important;
+}
+
+.abstract-text {
+    align-content: center;
 }
