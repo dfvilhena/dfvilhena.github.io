@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(40, 40, 50);
+  color: rgb(215, 215, 205);
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  text-align: justify;
+  font-family: sans-serif;
+}
