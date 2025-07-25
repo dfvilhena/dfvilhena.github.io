@@ -3,13 +3,13 @@ body {
   color: whitesmoke;
   margin-top: 10vh;
   margin-bottom: 10vh;
-  margin-left: 10vw;
-  margin-right: 10vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
   text-align: justify;
   font-family: sans-serif;
-  line-height: 1.5em;
-  /*letter-spacing: 0.1vw;
-  word-spacing: 0.2vw;*/
+  line-height: 1.2em;
+  letter-spacing: 0.05em;
+  /*word-spacing: 0.2vw;*/
 }
 
 h1 {
