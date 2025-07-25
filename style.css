@@ -1,10 +1,25 @@
 body {
-  background-color: rgb(40, 40, 50);
-  color: rgb(215, 215, 205);
+  background-color: black;
+  color: whitesmoke;
   margin-top: 10vh;
   margin-bottom: 10vh;
   margin-left: 20vw;
   margin-right: 20vw;
   text-align: justify;
   font-family: sans-serif;
+  line-height: 2;
+  letter-spacing: 0.1em;
+  white-space: 0em;
+  word-spacing: 0.2em;
+}
+
+h1 {
+    letter-spacing: 0.3em;
+    padding-top: 3vh;
+}
+
+img {
+  float: left;
+  padding-right: 2vw;
+  padding-bottom: 2vh;  
 }
