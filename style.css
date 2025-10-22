@@ -1,24 +1,46 @@
 body {
-  background-color: black;
-  color: whitesmoke;
+  /*background-color: #2a273a;*/
+  background-color: #f5f5ee;
+  color: #536878;
   margin-top: 10vh;
   margin-bottom: 10vh;
-  margin-left: 5vw;
-  margin-right: 5vw;
+  margin-left: 20vw;
+  margin-right: 20vw;
   text-align: justify;
-  font-family: sans-serif;
+  font-family: monospace;
   line-height: 1.2em;
   letter-spacing: 0.05em;
+  font-size: large;
   /*word-spacing: 0.2vw;*/
 }
 
 h1 {
     letter-spacing: 0.3vw;
     padding-top: 3vh;
+    font-size: x-large;
 }
 
 img {
   float: left;
   padding-right: 2vw;
   padding-bottom: 2vh;  
+}
+
+.text_body {
+  margin-top: 5vh;
+  margin-bottom: 2vh;
+}
+
+.signature {
+  margin-bottom: 2vh;
+}
+
+.head_links {
+  text-align: right;
+  margin-bottom: 2vh;
+}
+
+hr {
+  border-color: #536878;
+  border-top: 1px solid #536878;
 }
